@@ -29,12 +29,12 @@ It was facinating, the intricacy involved, breaking issues down into minute proc
 
 Web development: Winter 2016
   
-1. Europe’s leading coding bootcamp
-...A full-time online course
-Software craftsmanship 
-Full stack web development
-Ruby, OOP software design
-TDD, pair programming and teamwork
+Europe’s leading coding bootcamp
+- A full-time online course
+- Software craftsmanship 
+- Full stack web development
+- Ruby, OOP software design
+- TDD, pair programming and teamwork
 Week 12 final project: https://github.com/frazerWatson/road_tripper
 
 Other projects: 
@@ -47,12 +47,12 @@ Studied three years of philosophy.
 
 ## Work
 
-- *Business partnership*
+- *Business partnership* - 2014-2016  Manchester
 
-- *Assitant AIBA coach*
+- *Assitant AIBA coach* - 2012-2014 Manchester
 
-- *Boxer*
+- *Boxer* - 2005-2015 - Nationwide
 
-- *Skatepark owner*  
+- *Skatepark owner*  - 2013-2015 - Manchester
 
-- *Sponsored competitor and rider*
+- *Sponsored competitor and rider* - 2001-2010 - worldwide
