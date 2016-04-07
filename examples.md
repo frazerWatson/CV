@@ -37,8 +37,9 @@ Ruby, OOP software design
 TDD, pair programming and teamwork
 Week 12 final project: https://github.com/frazerWatson/road_tripper
 
-There are many more projects on my github from makers academy, although most are in an unfinished state 
-due to the nature of the course, but I will be working on finishing off my favorites over the coming weeks. 
+Other projects: 
+https://github.com/frazerWatson/MakersBnbRails
+https://github.com/frazerWatson/github_clone
 
 Oxford Brookes University/Staffordshire University
 
@@ -48,10 +49,10 @@ Studied three years of philosophy.
 
 - *Business partnership*
 
-- *Skatepark owner*  
-
 - *Assitant AIBA coach*
 
 - *Boxer*
+
+- *Skatepark owner*  
 
 - *Sponsored competitor and rider*
