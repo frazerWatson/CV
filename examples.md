@@ -1,7 +1,7 @@
 # Frazer Watson
 
 A CS friend of mine sat me down and showed me how they see a computer, until that moment I had no idea what code was.
-It was facinating, the intricacy involved, breaking problems down into minute processes in order to solve bigger problems. I needed to know more. I needed to understand what this stuff was and what it could do. So I began to teach myself from books and online resources. Learning was challenging, and putting all my effort and time into trying to become a junior developer has been a difficult test, but it was a very important decision for me and I needed to understand. I have earned my current knowledge and skill through hardwork and dedication. Now my main concern is to continue to progress and develop my skill and experience to the highest degree possible. This is what I want to do to earn a living.
+It was facinating, the intricacy involved, breaking issues down into minute processes in order to solve bigger problems. I needed to know more. I needed to understand what this stuff was and what it could do. So I began to teach myself from books and online resources. Learning was challenging, and putting all my effort and time into trying to become a junior developer has been a difficult test, but it was a very important decision for me and I needed to understand. I have earned my current knowledge and skill through hardwork and dedication. Now my main concern is to continue to progress and develop my skill and experience to the highest degree possible. This is what I want to do to earn a living.
 
 ## Skills
 
