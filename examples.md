@@ -1,55 +1,57 @@
-# Will Bentinck
+# Frazer Watson
 
-A beardy, bear-like thing with a sometimes overly enthusiastic passion for recruitment and education reform, especially in the tech world. I've founded and helped grow a number of social and commercial enterprises in both education and recruitment: some of which bombed, others soared. This year, I'd like to anchor my specialism and find an organisation that I can add exceptional value to, long-term.
+A CS friend of mine sat me down and showed me how they see a computer, until that moment I had no idea what code was.
+It was facinating, the intricacy involved, breaking problems down into minute processes in order to solve bigger problems. I needed to know more. I needed to understand what this stuff was and what it could do. So I began to teach myself from books and online resources. Learning was challenging, and putting all my effort and time into trying to become a junior developer has been a difficult test, but it was a very important decision for me and I needed to understand. I have earned my current knowledge and skill through hardwork and dedication. Now my main concern is to continue to progress and develop my skill and experience to the highest degree possible. This is what I want to do to earn a living.
 
 ## Skills
 
-#### Public Speaking
-
-Comfortable and confident in front of large groups of people, even when mightily unprepared, I'm an effective and entertaining speaker, using humour, metaphor and occasionally audience participation to make clear and memorable points.
-
-- [TEDxSquareMile](https://www.youtube.com/watch?v=j6eOT0nxQJ0): *Embrace Your Inner Spiderman*
-- Main stage of [Digital Shoreditch 2015](https://youtu.be/HrvmTTbWi9w): *Don't learn to code*
-- [Live TV interview](http://www.londonlive.co.uk/news/helping-kick-start-an-educational-revolution) on LondonLive, with a very silly moustache
-
-#### Ruby
-
-I think this is pretty impressive:
-``` ruby
-@basket.reduce(:+)
-```
-
-- I did the Hartl tutorial, but couldn't do any of the exercises.
-- Embarrassingly, it's actually [still on Heroku](http://fierce-bastion-1684.heroku.com/).
-- I can't do better than a 7kyu on Codewars right now.
-
-#### Recruitment
-
-- Arranged the hiring of 200+ graduates into jobs in more than 50 of Europe's best young tech companies, running the partnership between **Wayra Europe** and **Enternships** over its 18 month existence.
-- Coached and mentored startups on their recruitment practices, especially finding and attracting technical talent: mentor at **Wayra UK**; course leader at **The Accelerator Academy**; and regular recruitment advisor at **IDEALondon**.
-- Co-founded **Levantine Links**, a social enterprise recruiting UK graduates to teach English in Syria, to local children and adults displaced from Iraq. Recruited 4 TEFL-experienced graduates and an ex-headmaster and planned an integration with local school curriculum, spending only £30. Civil war unfortunately got in the way.
+- Ruby
+- Rails 4 framework
+- PostgreSQL
+- Sinatra DSL and DataMapper ORM
+- Object oriented design
+- Test Driven Design principle
+- Github & dev workflow
+- Javascript and jQuery
+- AngularJS
+- HTML5 and CSS
+- Bootstrap
+- Experience with APIs including Twilio, Google maps, etc.
+- Amazon Web Services
+- Deployment to Heroku
+- SOLID principles
+- Agile and XP Methodologies
+- Team work and pairing
 
 ## Education
 
-#### Heythrop College, University of London - 2007 to 2010
+Makers Academy
+http://www.makersacademy.com/employers/
+Web development: Winter 2016
+  
+Europe’s leading coding bootcamp
+A full-time online course
+Software craftsmanship 
+Full stack web development
+Ruby, OOP software design
+TDD, pair programming and teamwork
+Week 12 final project: https://github.com/frazerWatson/road_tripper
 
-- Philosophy, especially the philosophy of maths and language.
-- First Class Honours
-- Founded the drama society: HeADS
+There are many more projects on my github from makers academy, although most are in an unfinished state 
+due to the nature of the course, but I will be working on finishing off my favorites over the coming weeks. 
+
+Oxford Brookes University/Staffordshire University
+
+Studied three years of philosophy. 
 
 ## Work
 
-**Makers Academy** - (Nov 2014 to present)  
-*Head of Careers*  
-**ISOWORG** - (Mar 2014 to present)  
-*Director, Startup Recruitment*  
-**Business Governance Solutions** - (Mar 2014 to Oct 2014)  
-*Director of Marketing*  
-**Enternships** - (2012 to 2014) 
-*Key Account Manager*  
-**Ragged Project** - (2010 to 2011)  
-*Co-founder*  
-**Levantine Links** - (2010 to 2012)  
-*Co-founder*  
-**Golden Nugget Casino** - (2005 to 2008)  
-*Dealer*  
+- *Business partnership*
+
+- *Skatepark owner*  
+
+- *Assitant AIBA coach*
+
+- *Boxer*
+
+- *Sponsored competitor and rider*
