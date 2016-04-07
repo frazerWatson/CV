@@ -42,7 +42,7 @@ Other projects:
 https://github.com/frazerWatson/MakersBnbRails
 https://github.com/frazerWatson/github_clone
 
-Oxford Brookes University/Staffordshire University
+###Oxford Brookes University/Staffordshire University
 
 - Studied three years of philosophy. 
 
