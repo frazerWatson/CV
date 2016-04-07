@@ -36,11 +36,11 @@ Europe’s leading coding bootcamp
 - Ruby, OOP software design
 - TDD, pair programming and teamwork
 
-Week 12 final project: https://github.com/frazerWatson/road_tripper
+[Week 12 final project](https://github.com/frazerWatson/road_tripper)
 
 Other projects: 
-https://github.com/frazerWatson/MakersBnbRails
-https://github.com/frazerWatson/github_clone
+[MakersBnbRails](https://github.com/frazerWatson/MakersBnbRails)
+[github_clone](https://github.com/frazerWatson/github_clone)
 
 ###Oxford Brookes University/Staffordshire University
 
