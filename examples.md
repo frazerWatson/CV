@@ -49,10 +49,10 @@ Studied three years of philosophy.
 
 - *Business partnership* - 2014-2016  Manchester
 
+- *Skatepark owner*  - 2013-2015 - Manchester
+
 - *Assitant AIBA coach* - 2012-2014 Manchester
 
 - *Boxer* - 2005-2015 - Nationwide
-
-- *Skatepark owner*  - 2013-2015 - Manchester
 
 - *Sponsored competitor and rider* - 2001-2010 - worldwide
