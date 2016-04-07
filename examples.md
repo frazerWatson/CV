@@ -5,23 +5,9 @@ It was facinating, the intricacy involved, breaking issues down into minute proc
 
 ## Skills
 
-- Ruby
-- Rails 4 framework
-- PostgreSQL
-- Sinatra DSL and DataMapper ORM
-- Object oriented design
-- Test Driven Design principle
-- Github & dev workflow
-- Javascript and jQuery
-- AngularJS
-- HTML5 and CSS
-- Bootstrap
-- Experience with APIs including Twilio, Google maps, etc.
-- Amazon Web Services
-- Deployment to Heroku
-- SOLID principles
-- Agile and XP Methodologies
-- Team work and pairing
+- I apply Agile development and TDD principlces to all my projects. Used to working in a team, using Github and dev workflow, and have a lot of experience with pairing.
+
+- Worked with Ruby building basic programs and Sinatra web apps, where I familiarised myself with PostgeSQL and API's such as Twilio. Moving into Rails, I started building more complex and interactive products, such as a [Rails clone of AirBnb](https://github.com/frazerWatson/MakersBnbRails), and recently built an app called [RoadTripper](https://github.com/frazerWatson/road_tripper), designed to help people plan and share their road trip adventures, utilizing AWS and Google maps, Geolocator and Places API, with a Bootstrap frontend. I also have some experience in [AngularJS](https://github.com/frazerWatson/github_clone), Javascript, jQuery, HTML5 and CSS.
 
 ## Education
 
@@ -32,17 +18,12 @@ Web development: Winter 2016
 Europe’s leading coding bootcamp
 - A full-time online course
 - Software craftsmanship 
+- XP methodologies
 - Full stack web development
-- Ruby, OOP software design
+- Ruby, OOP, SOLID principles, software design
 - TDD, pair programming and teamwork
 
-[Week 12 final project](https://github.com/frazerWatson/road_tripper)
-
-Other projects: 
-
-[MakersBnbRails](https://github.com/frazerWatson/MakersBnbRails)
-
-[github_clone](https://github.com/frazerWatson/github_clone)
+[RoadTripper - Week 12 Final Project](https://github.com/frazerWatson/road_tripper)
 
 ###Oxford Brookes University/Staffordshire University
 
