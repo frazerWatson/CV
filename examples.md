@@ -39,6 +39,7 @@ Europe’s leading coding bootcamp
 [Week 12 final project](https://github.com/frazerWatson/road_tripper)
 
 Other projects: 
+
 [MakersBnbRails](https://github.com/frazerWatson/MakersBnbRails)
 
 [github_clone](https://github.com/frazerWatson/github_clone)
