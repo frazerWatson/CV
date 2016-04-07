@@ -40,6 +40,7 @@ Europe’s leading coding bootcamp
 
 Other projects: 
 [MakersBnbRails](https://github.com/frazerWatson/MakersBnbRails)
+
 [github_clone](https://github.com/frazerWatson/github_clone)
 
 ###Oxford Brookes University/Staffordshire University
