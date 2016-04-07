@@ -43,16 +43,16 @@ https://github.com/frazerWatson/github_clone
 
 Oxford Brookes University/Staffordshire University
 
-Studied three years of philosophy. 
+- Studied three years of philosophy. 
 
 ## Work
 
-- *Business partnership* - 2014-2016  Manchester
+- *Business partnership* - 2014-2016, Manchester
 
-- *Skatepark owner*  - 2013-2015 - Manchester
+- *Skatepark owner*  - 2013-2015, Manchester
 
-- *Assitant AIBA coach* - 2012-2014 Manchester
+- *Assitant AIBA coach* - 2012-2014, Manchester
 
-- *Boxer* - 2005-2015 - Nationwide
+- *Boxer* - 2005-2015, Nationwide
 
-- *Sponsored competitor and rider* - 2001-2010 - worldwide
+- *Sponsored competitor and rider* - 2001-2010, Worldwide
