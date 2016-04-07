@@ -53,6 +53,6 @@ Oxford Brookes University/Staffordshire University
 
 - *Assitant AIBA coach* - 2012-2014, Manchester
 
-- *Boxer* - 2005-2015, Nationwide
+- *Boxer* - 2012-2015, Nationwide
 
 - *Sponsored competitor and rider* - 2001-2010, Worldwide
