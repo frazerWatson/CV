@@ -25,6 +25,12 @@ Europe’s leading coding bootcamp
 
 [RoadTripper - Week 12 Final Project](https://github.com/frazerWatson/road_tripper)
 
+- Java for Dummies - Barry Burd
+- HTML5 for Dummies - Andy Harris
+- Learn Ruby the Hard Way - Zed A. Shaw
+- Why's Poingant Guide to Ruby - why the lucky stiff
+- Practical Object Oriented Design in Ruby: An Agile Primer - Sandi Metz
+
 ###Oxford Brookes University/Staffordshire University
 
 - Studied three years of philosophy. 
