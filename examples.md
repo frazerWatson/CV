@@ -28,7 +28,7 @@ Europe’s leading coding bootcamp
 - Java for Dummies - Barry Burd
 - HTML5 for Dummies - Andy Harris
 - Learn Ruby the Hard Way - Zed A. Shaw
-- Why's Poingant Guide to Ruby - why the lucky stiff
+- Why's Poignant Guide to Ruby - why the lucky stiff
 - Practical Object Oriented Design in Ruby: An Agile Primer - Sandi Metz
 
 ###Oxford Brookes University/Staffordshire University
@@ -41,7 +41,7 @@ Europe’s leading coding bootcamp
 
 - *Skatepark owner*  - 2013-2015, Manchester
 
-- *Assitant AIBA coach* - 2012-2014, Manchester
+- *Assistant AIBA coach* - 2012-2014, Manchester
 
 - *Semi-Professional Boxer* - 2012-2015, Nationwide
 
