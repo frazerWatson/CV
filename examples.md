@@ -30,11 +30,11 @@ It was facinating, the intricacy involved, breaking issues down into minute proc
 Web development: Winter 2016
   
 Europe’s leading coding bootcamp
-A full-time online course
-Software craftsmanship 
-Full stack web development
-Ruby, OOP software design
-TDD, pair programming and teamwork
+.A full-time online course
+.Software craftsmanship 
+.Full stack web development
+.Ruby, OOP software design
+.TDD, pair programming and teamwork
 Week 12 final project: https://github.com/frazerWatson/road_tripper
 
 Other projects: 
