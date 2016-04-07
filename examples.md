@@ -25,7 +25,7 @@ It was facinating, the intricacy involved, breaking issues down into minute proc
 
 ## Education
 
-[Makers Academy](http://www.makersacademy.com/employers/)
+###[Makers Academy](http://www.makersacademy.com/employers/)
 
 Web development: Winter 2016
   
