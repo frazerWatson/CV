@@ -39,6 +39,16 @@ Europe’s leading coding bootcamp
 
 - Studied three years of philosophy. 
 
+## Future Development
+
+I'm interested in learning and working with new technologies:
+
+- iOS development
+- Swift
+- Objective C
+- Java
+- Php
+- 
 ## Work
 
 - *Business partnership* - 2014-2016, Manchester
