@@ -48,7 +48,7 @@ I'm interested in learning and working with new technologies:
 - Objective C
 - Java
 - Php
-- 
+
 ## Work
 
 - *Business partnership* - 2014-2016, Manchester
