@@ -9,7 +9,7 @@ It was facinating, the intricacy involved, breaking issues down into minute proc
 
 - Worked with Ruby building basic programs and Sinatra web apps, where I familiarised myself with PostgeSQL, DataMapper and API's such as Twilio, Paperclip and Devise. 
 
-- Moving into Rails, I started building more complex and interactive products, such as a [Rails clone of AirBnb](https://github.com/frazerWatson/MakersBnbRails), and recently built an app called [RoadTripper](https://github.com/frazerWatson/road_tripper), designed to help people plan and share their road trip adventures, utilizing AWS and Google maps, Geolocator and Places API's, with a Bootstrap frontend.
+- Moving into Rails, I started building more complex and interactive products, such as a [Rails clone of AirBnb](https://github.com/frazerWatson/MakersBnbRails), and recently built an app called [RoadTripper](https://github.com/frazerWatson/road_tripper), designed to help people plan and share their road trip adventures, utilizing AWS(S3) and Google maps, Geolocator and Places API's, with a Bootstrap frontend.
 
 - I also worked with [AngularJS](https://github.com/frazerWatson/github_clone), Javascript, jQuery, HTML5 and CSS.
 
