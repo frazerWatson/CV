@@ -7,7 +7,11 @@ It was facinating, the intricacy involved, breaking issues down into minute proc
 
 - Agile development and TDD principlces for all my projects. Used to working in a team, using Github and dev workflow, and have a lot of experience with pairing.
 
-- Worked with Ruby building basic programs and Sinatra web apps, where I familiarised myself with PostgeSQL and API's such as Twilio. Moving into Rails, I started building more complex and interactive products, such as a [Rails clone of AirBnb](https://github.com/frazerWatson/MakersBnbRails), and recently built an app called [RoadTripper](https://github.com/frazerWatson/road_tripper), designed to help people plan and share their road trip adventures, utilizing AWS and Google maps, Geolocator and Places API, with a Bootstrap frontend. I also have some experience in [AngularJS](https://github.com/frazerWatson/github_clone), Javascript, jQuery, HTML5 and CSS.
+- Worked with Ruby building basic programs and Sinatra web apps, where I familiarised myself with PostgeSQL, DataMapper and API's such as Twilio, Paperclip and Devise. 
+
+- Moving into Rails, I started building more complex and interactive products, such as a [Rails clone of AirBnb](https://github.com/frazerWatson/MakersBnbRails), and recently built an app called [RoadTripper](https://github.com/frazerWatson/road_tripper), designed to help people plan and share their road trip adventures, utilizing AWS and Google maps, Geolocator and Places API's, with a Bootstrap frontend.
+
+- I also worked with [AngularJS](https://github.com/frazerWatson/github_clone), Javascript, jQuery, HTML5 and CSS.
 
 ## Education
 
