@@ -13,6 +13,9 @@ It was fascinating, the intricacy involved, breaking issues down into minute pro
 
 - I have also worked with [AngularJS](https://github.com/frazerWatson/github_clone), Javascript, jQuery, HTML5 and CSS.
 
+- XP and software craftsmanship. 
+
+
 ## Education
 
 ###[Makers Academy](http://www.makersacademy.com/employers/)
