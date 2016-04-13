@@ -66,7 +66,7 @@ Owner  - 2013-2015, Manchester
 
 Took over the North West's oldest skatepark when it was one month away from liqidation and through negotiations and remodelling, manged to keep it open for another 18 months until the lease was up and the land was sold for redevelopment.
 
-- Semi-Professional Boxer - 2012-2015, Nationwide
+- Semi-Professional Boxer - 2013-2015, Nationwide
 
 Boxed at shows across the country, normally in front of 500-1000 people. Also work the corner for other fighters I travelled with, which includes analyzing the fight and giving advice to your fighter between rounds, while always making sure your fighter isn't getting hurt. Making tough decisions to stop a fight for the safety of your fighter. 
 
