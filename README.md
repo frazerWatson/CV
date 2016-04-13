@@ -55,19 +55,19 @@ I'm interested in learning and working with new technologies:
 ## Work
 
 - Flat Roofs Manchester
-- 
+
 *Business partnership* - 2014-2016, Manchester
 
 Started a business with a partner in an industry I knew nothing about and did over £500, 000 turnover in our first year. Mainly targeting industrial and large commercial jobs. The business is still running and growing, but I have stepped away from an active role to pursue coding. 
 
 - Bones Skatepark
-- 
+
 Owner  - 2013-2015, Manchester
 
 Took over the North West's oldest skatepark when it was one month away from liqidation and through negotiations and remodelling, manged to keep it open for another 18 months until the lease was up and the land was sold for redevelopment.
 
 - Barton ABC
-- 
+
 *Assistant AIBA coach* 2012-2014, Manchester
 
 My job was to introduced new members to gym etiquette and teach people of all ages the fundamental techniques of boxing.
@@ -77,6 +77,6 @@ Run full training sessions with my own group, oversee sparring sessions and teac
 
 Boxed at shows across the country, normally in front of 500-1000 people. Also work the corner for other fighters I travelled with, which includes analyzing the fight and giving advice to your fighter between rounds, while always making sure your fighter isn't getting hurt. Making tough decisions to stop a fight for the safety of your fighter. 
 
-Sponsored competitor and rider - 2001-2010, Worldwide
+- Sponsored competitor and rider - 2001-2010, Worldwide
 
 Sponsored skater, British Champion at 15, toured Europe and America for events. Something I was involved in from an early age.
