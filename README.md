@@ -71,7 +71,7 @@ Took over the North West's oldest skatepark when it was one month away from liqi
 
 ### Semi-Professional Boxer - 2013-2015, Nationwide
 
-Boxed at shows across the country, normally in front of 500-1000 people. Also work the corner for other fighters I travelled with, which includes analyzing the fight and giving advice to your fighter between rounds, while always making sure your fighter isn't getting hurt. Making tough decisions to stop a fight for the safety of your fighter. 
+Boxed at shows across the country, normally in front of 500-1000 people. Also work the corner for other fighters I travelled with, which includes analyzing the fight and giving advice to your fighter between rounds, while always making sure your fighter isn't getting hurt. Making tough decisions to stop a fight for the safety of your fighter, if necessary.
 
 ### Barton ABC
 
@@ -82,4 +82,4 @@ Run full training sessions with my own group, oversee sparring sessions and teac
 
 ### Sponsored competitor and rider - 2001-2010, Worldwide
 
-Sponsored skater, British Champion at 15, toured Europe and America for events. Something I was involved in from an early age.
+Sponsored skater, British Champion at 15, toured Europe and America for events. Involved in video production, magazine editing and distribution business. Something I was involved in from an early age.
