@@ -1,6 +1,6 @@
 # Frazer Watson
 
-Tyrannical self discipline and dedication is how I learn anything. I was fascinated by code as soon as I was introduced to it and began to teach myself from books and online resources, before deciding to join Makers Academy and dedicate everyday working to develop my skill and knowledge as a junior developer. I love coding and it is what I want to do to earn a living.
+Tyrannical self discipline and dedication is how I learn anything. I was fascinated by code as soon as I was introduced to it and began to teach myself from books and online resources, before deciding to join Makers Academy and dedicate everyday for four long months working to develop my knowledge and skill as a junior developer. I love coding and it is what I want to do to earn a living.
 
 ## Skills
 
