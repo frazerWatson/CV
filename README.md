@@ -40,7 +40,8 @@ Europe’s leading coding bootcamp
 
 ###Oxford Brookes University/Staffordshire University
 
-- Studied three years of philosophy. 
+- Studied three years of philosophy. Which is my ultimate area of study, but droppedout in my final semester.
+I still carry on my own education in philosophy and consider reading a serious endeavour rather than a pastime. I am particularly interested in logic, economics, theories of motivation and ancient Cynicism.
 
 ## Future Development
 
