@@ -32,6 +32,8 @@ Europe’s leading coding bootcamp
 
 [RoadTripper - Week 12 Final Project](https://github.com/frazerWatson/road_tripper)
 
+### Self-teaching
+
 - Java for Dummies - Barry Burd
 - HTML5 for Dummies - Andy Harris
 - Learn Ruby the Hard Way - Zed A. Shaw
