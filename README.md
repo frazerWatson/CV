@@ -25,8 +25,8 @@ Europe’s leading coding bootcamp
 - Ruby, OOP, SOLID principles, software design
 - TDD, pair programming and teamwork for all my projects
 - Github and dev workflow
-- Ruby building basic programs and Sinatra web apps, where I familiarised myself with PostgeSQL, API's such as Twilio
-- I started building more complex and interactive products with Ruby on Rails, such as a [Rails clone of AirBnb](https://github.com/frazerWatson/MakersBnbRails), and recently built an app called [RoadTripper](https://github.com/frazerWatson/road_tripper), designed to help people plan and share their road trip adventures, utilising AWS(S3) and Google maps, Geolocator and Places API's, with a Bootstrap frontend. I am also familiar with gems and API's such as DataMapper, Paperclip and Devise
+- Ruby building basic programs and Sinatra web apps, where I familiarised myself with PostgeSQL, API's such as Twilio.
+- I started building more complex and interactive products with Ruby on Rails, such as a [Rails clone of AirBnb](https://github.com/frazerWatson/MakersBnbRails), and recently built an app called [RoadTripper](https://github.com/frazerWatson/road_tripper), designed to help people plan and share their road trip adventures, utilising AWS(S3), Google maps, Geolocator and Places API's, Devise, Paperclip and DataMapper gems, with a Bootstrap frontend. 
 - I can also worked with [AngularJS](https://github.com/frazerWatson/github_clone), Javascript, jQuery, HTML5 and CSS.
 
 ### Self-teaching
