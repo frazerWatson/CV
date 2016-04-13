@@ -66,16 +66,16 @@ Owner  - 2013-2015, Manchester
 
 Took over the North West's oldest skatepark when it was one month away from liqidation and through negotiations and remodelling, manged to keep it open for another 18 months until the lease was up and the land was sold for redevelopment.
 
+- Semi-Professional Boxer - 2012-2015, Nationwide
+
+Boxed at shows across the country, normally in front of 500-1000 people. Also work the corner for other fighters I travelled with, which includes analyzing the fight and giving advice to your fighter between rounds, while always making sure your fighter isn't getting hurt. Making tough decisions to stop a fight for the safety of your fighter. 
+
 - Barton ABC
 
 *Assistant AIBA coach* 2012-2014, Manchester
 
 My job was to introduced new members to gym etiquette and teach people of all ages the fundamental techniques of boxing.
 Run full training sessions with my own group, oversee sparring sessions and teach discipline in preparation for fights. I taught a number of young people how to box and helped them through their first fights. 
-
-- Semi-Professional Boxer - 2012-2015, Nationwide
-
-Boxed at shows across the country, normally in front of 500-1000 people. Also work the corner for other fighters I travelled with, which includes analyzing the fight and giving advice to your fighter between rounds, while always making sure your fighter isn't getting hurt. Making tough decisions to stop a fight for the safety of your fighter. 
 
 - Sponsored competitor and rider - 2001-2010, Worldwide
 
