@@ -29,6 +29,8 @@ Europe’s leading coding bootcamp
 - I started building more complex and interactive products with Ruby on Rails, such as a [Rails clone of AirBnb](https://github.com/frazerWatson/MakersBnbRails), and recently built an app called [RoadTripper](https://github.com/frazerWatson/road_tripper), designed to help people plan and share their road trip adventures, utilising AWS(S3), Google maps, Geolocator and Places API's, Devise, Paperclip and DataMapper gems, with a Bootstrap frontend. 
 - I can also worked with [AngularJS](https://github.com/frazerWatson/github_clone), Javascript, jQuery, HTML5 and CSS.
 
+My experience at Makers Academy has given me the confidence to take on any language and quickly adapt my skills.
+
 ### Self-teaching
 
 - Java for Dummies - Barry Burd
