@@ -39,7 +39,7 @@ Europe’s leading coding bootcamp
 
 ###Oxford Brookes University/Staffordshire University
 
-- Studied three years of philosophy. Which is my ultimate area of study, but droppedout in my final semester.
+- Studied three years of philosophy. Which is my ultimate area of study, but dropped out in my final semester.
 I still carry on my own education in philosophy and consider reading a serious endeavour rather than a pastime. I am particularly interested in logic, economics, theories of motivation and ancient Cynicism.
 
 ## Future Development
@@ -64,11 +64,11 @@ Started a business with a partner in an industry I knew nothing about and did ov
 
 Owner  - 2013-2015, Manchester
 
-Took over the North West's oldest skatepark when it was one month away from liqidation and through negotiations and remodelling, manged to keep it open for another 18 months until the lease was up and the land was sold for redevelopment.
+Took over the North West's oldest skatepark when it was one month away from liquidation and through negotiations and remodelling, managed to keep it open for another 18 months until the lease was up and the land was sold for redevelopment.
 
 ### Semi-Professional Boxer - 2013-2015, Nationwide
 
-Boxed at shows across the country, normally in front of 500-1000 people. Also work the corner for other fighters I travelled with, which includes analyzing the fight and giving advice to your fighter between rounds, while always making sure your fighter isn't getting hurt. Making tough decisions to stop a fight for the safety of your fighter, if necessary.
+Boxed at shows across the country, normally in front of 500-1000 people. Also work the corner for other fighters I travelled with, which includes analysing the fight and giving advice to your fighter between rounds, while always making sure your fighter isn't getting hurt. Making tough decisions to stop a fight for the safety of your fighter, if necessary.
 
 ### Barton ABC
 
